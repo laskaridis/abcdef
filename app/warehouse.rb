@@ -1,0 +1,7 @@
+require_relative "location"
+require_relative "slot"
+require_relative "crate"
+require_relative "store"
+require_relative "store_printer"
+require_relative "commands"
+require_relative "simple_warehouse"
